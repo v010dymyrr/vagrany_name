@@ -3,4 +3,4 @@
 name="Volodymyr"
 surname="Kost"
 
-echo "$name" + "$surname"
+echo " greetings $name $surname"
